@@ -1,8 +1,8 @@
 class Shelf < Formula
   desc "Index of your repositories so agents get context on other projects"
   homepage "https://github.com/mcclowes/shelf"
-  url "https://github.com/mcclowes/shelf/releases/download/v0.1.1/shelf-0.1.1.tar.gz"
-  sha256 "ec944e9d425b42602e3bb94346b11445dbacd98bf719a23916fd82bcbf57f94d"
+  url "https://github.com/mcclowes/shelf/releases/download/v0.2.0/shelf-0.2.0.tar.gz"
+  sha256 "677c58ade55ccb0bce0d8f53ff84875870d00538a7cba002016a8c1b476e7817"
   license "MIT"
 
   depends_on "node"
