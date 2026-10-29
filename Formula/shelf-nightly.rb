@@ -1,10 +1,10 @@
 class ShelfNightly < Formula
   desc "Index of your repositories so agents get context on other projects"
   homepage "https://github.com/mcclowes/shelf"
-  url "https://github.com/mcclowes/shelf/releases/download/nightly-homebrew-40698605877-1/shelf-0.4.0.tar.gz"
-  sha256 "43b0dc624a2dfcf305af62063c832887acb4d454d48f9e4b470780942e841d23"
+  url "https://github.com/mcclowes/shelf/releases/download/nightly-homebrew-40807845569-1/shelf-0.4.0.tar.gz"
+  sha256 "9e83ee274102b2800f6d30723884b4bca5cdce6e23bc812aa4373fca774c2e7b"
   version "0.4.0"
-  revision 1793194889
+  revision 1793241749
   conflicts_with "shelf"
   license "MIT"
 
